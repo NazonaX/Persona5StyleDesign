@@ -36,7 +36,8 @@
 	-webkit-animation: 0.75s menuInnerAnime ease-in-out infinite;
 }
 .menu {
-	float: left;
+	display: block;
+	text-align: center;
 	position: relative;
 }
 .menuOuter {
